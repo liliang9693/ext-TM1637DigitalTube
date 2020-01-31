@@ -8,7 +8,7 @@
 
 ## 链接
 - **本用户库加载地址:** ```https://github.com/liliang9693/ext-TM1637DigitalTube```
-- **Mind+下载地址：**[http://mindplus.cc](http://mindplus.cc "http://mindplus.cc")    
+- **Mind+下载地址：**[http://mindplus.cc](http://mindplus.cc "http://mindplus.cc")      
 
 ## 简介
 
