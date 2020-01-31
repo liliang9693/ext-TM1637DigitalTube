@@ -10,7 +10,7 @@
   "auther": "liliang",
   "email": "969316753@qq.com",
   "license": "MIT",
-  "isTest": false,
+  "isTest": true,
   "isBoard": false,
   "id": "TM1637DigitalTube",
   "platform": [
