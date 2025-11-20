@@ -7,10 +7,9 @@
     "zh-cn": "针对掌控板的蓝牙串口功能。",
     "en": "Bluetooth serial port function for the mpython board."
   },
-  "auther": "liliang",
+  "author": "liliang",
   "email": "969316753@qq.com",
   "license": "MIT",
-  "isTest": true,
   "isBoard": false,
   "id": "TM1637DigitalTube",
   "version": "0.0.2",
@@ -21,7 +20,7 @@
     "arduinoC": {
       "dir": "arduinoC/",
       "board": [
-        "arduino","arduinonano"
+        "arduino","arduinonano","leonardo","mega2560"
       ],
       "main": "main.ts"
     }
