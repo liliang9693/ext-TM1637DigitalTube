@@ -13,39 +13,17 @@
   "isTest": true,
   "isBoard": false,
   "id": "TM1637DigitalTube",
+  "version": "0.0.2",
   "platform": [
     "win"
   ],
   "asset": {
     "arduinoC": {
       "dir": "arduinoC/",
-      "version": "0.1.0",
       "board": [
-        "arduino"
+        "arduino","arduinonano"
       ],
-      "main": "main.ts",
-      "files": [
-        "_menus/arduinonano.json",
-        "_menus/arduino.json",
-        "_locales/zh-cn.json",
-        "_images/icon.svg", 
-        "libraries/SevenSegmentTM1637/SevenSegmentExtended.h",
-        "libraries/SevenSegmentTM1637/SevenSegmentExtended.cpp",
-        "libraries/SevenSegmentTM1637/SevenSegmentFun.h",
-        "libraries/SevenSegmentTM1637/SevenSegmentFun.cpp",
-        "libraries/SevenSegmentTM1637/SevenSegmentTM1637.h",
-        "libraries/SevenSegmentTM1637/SevenSegmentTM1637.cpp",
-        "libraries/includes.json",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentExtended.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentFun.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentTM1637.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentExtended.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentFun.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentTM1637.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentExtended.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentFun.cpp.o",
-        "libraries/SevenSegmentTM1637/uno/SevenSegmentTM1637.cpp.o"
-      ]
+      "main": "main.ts"
     }
   }
 }
